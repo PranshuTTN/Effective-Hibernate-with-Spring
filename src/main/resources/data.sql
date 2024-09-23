@@ -1,0 +1,1 @@
+INSERT INTO products (id, stock) VALUES (1, 3);
